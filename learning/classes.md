@@ -31,6 +31,8 @@ If you know of other classes using Julia for teaching, please consider [updating
     * [EARS 80.03](https://dartmouth.smartcatalogiq.com/en/current/orc/Departments-Programs-Undergraduate/Earth-Sciences/EARS-Earth-Sciences-Undergraduate/EARS-80-03)
 * École Polytechnique Fédérale de Lausanne
     * [CIVIL 557] Decision-aid methodologies in transportation (Mor Kaspi, Virginie Lurkin), Spring 2017
+    * [MATH 251(b)](https://teaching.matmat.org/numerical-analysis/), Numerical analysis, Spring 2024
+    * [MATH 500](https://teaching.matmat.org/error-control/), Error control in scientific modelling, from Fall 2023
 * [Einaudi Institute for Economics and Finance, Rome](http://www.eief.it/eief/)
     * [Econometrics of DSGE Models](https://web.archive.org/web/20211207064252/https://gragusa.org/teaching/eief-dsge/) ([Giuseppe Ragusa](http://gragusa.org))
 * Emory University
@@ -234,6 +236,8 @@ If you know of other classes using Julia for teaching, please consider [updating
     * EC607, [Computational Economics](https://github.com/dgevans/EC-607-Computational-Economics) ([Prof. David Evans](http://econevans.com/))
 * University of Oulu
     * Invited [Advanced Julia Workshop](https://github.com/crstnbr/JuliaOulu20) (MSc. Carsten Bauer, University of Cologne), Spring 2020
+* University of Southern Maine
+    * [COS 374](https://github.com/jamesquinlan/cos374-numerical), Numerical Analysis ([Prof. James Quinlan](https://cs.usm.maine.edu/~james.quinlan/cos374/index.html)), Spring Semesters  	
 * University of South Florida
     * ESI 4312, Deterministic Operations Research (Prof. Changhyun Kwon), Fall 2017–Fall 2020
     * ESI 6410, Optimization in O.R. (Prof. Changhyun Kwon), Spring 2021
